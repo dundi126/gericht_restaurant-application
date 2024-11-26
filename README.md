@@ -41,9 +41,3 @@ The project uses standard CSS for styling. You can customize styles by editing t
 - Integrate a CMS for dynamic menu management.
 - Introduce a user feedback and review section.
 - Implement localization for multi-language support.
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-🙏 Acknowledgments
-Special thanks to the open-source community for the tools and resources that made this project possible.
